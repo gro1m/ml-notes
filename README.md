@@ -17,3 +17,5 @@
 - <https://arxiv.org/abs/2109.12541>
 - <https://arxiv.org/pdf/2104.07368.pdf>
 - <https://graph-neural-networks.github.io/static/file/chapter19.pdf>
+
+- <https://www.kaggle.com/code/ritzig/classification-feature-selection-shap-tutorial>
