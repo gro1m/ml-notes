@@ -19,3 +19,5 @@
 - <https://graph-neural-networks.github.io/static/file/chapter19.pdf>
 
 - <https://www.kaggle.com/code/ritzig/classification-feature-selection-shap-tutorial>
+
+- <http://karpathy.github.io/2019/04/25/recipe/>
