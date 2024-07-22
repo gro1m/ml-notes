@@ -21,3 +21,5 @@
 - <https://www.kaggle.com/code/ritzig/classification-feature-selection-shap-tutorial>
 
 - <http://karpathy.github.io/2019/04/25/recipe/>
+
+- https://images.datacamp.com/image/upload/v1676302389/Marketing/Blog/Scikit-Learn_Cheat_Sheet.pdf
